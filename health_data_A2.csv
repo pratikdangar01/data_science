@@ -1,4 +1,4 @@
-male,age,education,currentSmoker,totChol,sysBP,BMI,heartRate
+gender,age,education,currentSmoker,totChol,sysBP,BMI,heartRate
 F,33,3,Yes,199,116,21.61,75
 M,34,4,No,227,131.5,25.41,60
 F,34,2,Yes,220,117.5,20.79,63
